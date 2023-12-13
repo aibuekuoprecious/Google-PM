@@ -1,7 +1,9 @@
-### Stakeholder Analysis Template
+## Week 1 Updates
 
-[Link to Stakeholder Analysis Template](https://docs.google.com/presentation/d/1LIK80uR00tmr7rcrDKuRQkjDlaY-AhAPIoVPIPhoxKk/edit#slide=id.g9455395c98_0_31)
+During Week 1, the following documents were used to take notes:
 
+- [Week 1 - Document_Org Chart & Team.pdf](link-to-org-chart-pdf)
+- [Week 1 - Email_Checking In.pdf](link-to-checking-in-pdf)
 
 ### Guiding Questions:
 
