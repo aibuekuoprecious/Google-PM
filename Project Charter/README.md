@@ -1,3 +1,8 @@
+### Project Charter Template
+
+[Link to Project Charter Template](https://docs.google.com/document/d/1wXcYsF7vUIm9HnMSxMwI2mDtj3LDIfedeDwOYMLqiWI/edit?resourcekey=0-zoAm6Tj69Z-Ik-KMSKDiZQ)
+
+
 ## Project Charter Criteria Checklist
 
 This checklist provides a quick overview of the essential criteria my project charter must meet to be considered complete and effective.
